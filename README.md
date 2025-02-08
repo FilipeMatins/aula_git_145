@@ -1,5 +1,7 @@
 # COMO FAZER O PRIMEIRO COMMIT NO MEU REPOSITORIO NO GITHUB #
 
+testando
+
 # PASSO 1
 git add .
 
