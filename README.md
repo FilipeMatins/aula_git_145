@@ -14,3 +14,6 @@ git remote add origin <URL_DO_REPOSITORIO>.git
 
 # PASSO 5
 git push -u origin main 
+
+# CASO DE UM ERRO NO EMAIL DIGITE
+nano ~/.gitconfig
